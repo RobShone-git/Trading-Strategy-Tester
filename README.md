@@ -14,4 +14,4 @@ This project implements a trading strategy using the Relative Strength Index (RS
 - `RSI.py`: Contains functions for calculating the Relative Strength Index.
 - `Bull_Market_Data.py`: Provides sample price data for bull markets.
 - `Bear_Market_Data.py`: Provides sample price data for bear markets.
-- `test_script.py`: Main script to execute the trading strategy using the indicators and market data.
+- `test.py`: Main script to execute the trading strategy using the indicators and market data.
